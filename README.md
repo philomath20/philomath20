@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @philomath20
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning coding 
+- 👀 I’m a unity game developer 
+- 🌱 I’m currently learning animation 
 - 💞️ I’m looking to collaborate on teamworks 
 - 📫 How to reach me akindeleyunus@gmail.com
 
